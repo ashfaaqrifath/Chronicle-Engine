@@ -1,0 +1,14 @@
+2023-08-04 02:18:59 - CHRONICLE ENGINE v1.0.0
+08/04/23:Aug:02:18:59 
+<< ACTIVITY LOG >> 
+BEGIN LOG >>
+
+2023-08-04 02:18:59 - Opened 
+2023-08-04 02:18:59 - Opened C:\WINDOWS\py.exe
+2023-08-04 02:18:59 - Opened C:\Users\ashfa\OneDrive\Documents\My Projects\Chronicle Engine (11P82422)
+2023-08-04 02:18:59 - Opened Settings
+2023-08-04 02:18:59 - Opened Windows Input Experience
+2023-08-04 02:18:59 - Opened Program Manager
+2023-08-04 02:19:05 - Opened Activity Logs
+2023-08-04 02:19:05 - Opened C:\Users\ashfa\OneDrive\Documents\My Projects\Chronicle Engine (11P82422)\Activity Logs
+2023-08-04 02:19:10 - Opened PopupHost

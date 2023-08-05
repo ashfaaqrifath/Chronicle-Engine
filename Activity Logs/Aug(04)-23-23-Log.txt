@@ -1,0 +1,53 @@
+2023-08-04 23:23:06 - CHRONICLE ENGINE v1.0.0
+08/04/23:Aug:23:23:06 
+<< ACTIVITY LOG >> 
+BEGIN LOG >>
+
+2023-08-04 23:23:06 - Opened 
+2023-08-04 23:23:06 - Opened chronicle_engine.py - Chronicle Engine (11P82422) - Visual Studio Code
+2023-08-04 23:23:06 - Opened General - Google Chrome
+2023-08-04 23:23:06 - Opened Settings
+2023-08-04 23:23:06 - Opened Windows Input Experience
+2023-08-04 23:23:06 - Opened Program Manager
+2023-08-04 23:23:09 - Opened Aug(04)-23-23-Log.txt - Chronicle Engine (11P82422) - Visual Studio Code
+2023-08-04 23:23:09 - Closed chronicle_engine.py - Chronicle Engine (11P82422) - Visual Studio Code
+2023-08-04 23:23:23 - Opened Notepad
+2023-08-04 23:23:23 - Opened Untitled - Notepad
+2023-08-04 23:23:23 - Closed Notepad
+2023-08-04 23:23:33 - Closed Untitled - Notepad
+2023-08-04 23:23:41 - Opened PopupHost
+2023-08-04 23:23:42 - Closed PopupHost
+2023-08-04 23:23:43 - Opened This PC
+2023-08-04 23:23:46 - Closed This PC
+2023-08-04 23:23:59 - Opened Sticky Notes
+2023-08-04 23:24:00 - Opened Title
+2023-08-04 23:24:00 - Closed Title
+2023-08-04 23:24:04 - Opened Title
+2023-08-04 23:24:04 - Closed Title
+2023-08-04 23:24:05 - Opened Title
+2023-08-04 23:24:06 - Closed Title
+2023-08-04 23:24:06 - Closed Sticky Notes
+2023-08-04 23:25:10 - Opened This PC
+2023-08-04 23:25:12 - Opened OnePixelWindow
+2023-08-04 23:25:12 - Closed OnePixelWindow
+2023-08-04 23:25:12 - Opened OnePixelWindow
+2023-08-04 23:25:12 - Closed OnePixelWindow
+2023-08-04 23:25:12 - Closed This PC
+2023-08-04 23:25:12 - Opened Downloads
+2023-08-04 23:25:14 - Opened Music
+2023-08-04 23:25:14 - Closed Downloads
+2023-08-04 23:25:15 - Opened Dungeons Dragons Honor Among Thieves (2023) [720p] [BluRay] [YTS.MX]
+2023-08-04 23:25:15 - Closed Music
+2023-08-04 23:25:15 - Closed Dungeons Dragons Honor Among Thieves (2023) [720p] [BluRay] [YTS.MX]
+2023-08-04 23:25:15 - Opened D:\Movies\Dungeons Dragons Honor Among Thieves (2023) [720p] [BluRay] [YTS.MX]
+2023-08-04 23:25:16 - Opened OnePixelWindow
+2023-08-04 23:25:16 - Closed OnePixelWindow
+2023-08-04 23:25:16 - Closed D:\Movies\Dungeons Dragons Honor Among Thieves (2023) [720p] [BluRay] [YTS.MX]
+2023-08-04 23:25:16 - Opened C:\Users\ashfa\OneDrive\Documents\My Projects\Chronicle Engine (11P82422)
+2023-08-04 23:25:18 - Opened OnePixelWindow
+2023-08-04 23:25:18 - Closed OnePixelWindow
+2023-08-04 23:25:18 - Closed C:\Users\ashfa\OneDrive\Documents\My Projects\Chronicle Engine (11P82422)
+2023-08-04 23:25:18 - Opened Wallpapers
+2023-08-04 23:25:18 - Closed Wallpapers
+2023-08-04 23:25:18 - Opened C:\Users\ashfa\Pictures\Wallpapers
+2023-08-04 23:25:20 - Closed C:\Users\ashfa\Pictures\Wallpapers

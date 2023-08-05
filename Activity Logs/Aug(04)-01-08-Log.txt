@@ -1,0 +1,19 @@
+2023-08-04 01:08:27 - CHRONICLE ENGINE v1.0.0
+08/04/23:Aug:01:08:27 
+<< ACTIVITY LOG >> 
+BEGIN LOG >>
+
+2023-08-04 01:08:27 - Opened 
+2023-08-04 01:08:27 - Opened chronicle_engine.py - Chronicle Engine (11P82422) - Visual Studio Code
+2023-08-04 01:08:27 - Opened General - Google Chrome
+2023-08-04 01:08:27 - Opened C:\Users\ashfa\OneDrive\Documents\My Projects
+2023-08-04 01:08:27 - Opened Settings
+2023-08-04 01:08:27 - Opened Windows Input Experience
+2023-08-04 01:08:27 - Opened Program Manager
+2023-08-04 01:08:30 - Opened Aug(04)-01-08-Log.txt - Chronicle Engine (11P82422) - Visual Studio Code
+2023-08-04 01:08:47 - Opened Windows Terminal
+2023-08-04 01:08:47 - Opened Terminal
+2023-08-04 01:08:48 - Opened Backup Protocol
+2023-08-04 01:09:09 - Opened Media Player
+2023-08-04 01:09:27 - Opened Notepad
+2023-08-04 01:09:28 - Opened Untitled - Notepad
